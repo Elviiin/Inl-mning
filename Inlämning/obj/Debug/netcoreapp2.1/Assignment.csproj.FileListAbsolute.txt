@@ -1,0 +1,14 @@
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\Assignment.deps.json
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.json
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\Assignment.runtimeconfig.dev.json
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\Assignment.dll
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\Assignment.pdb
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\ClassLibrary.dll
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\bin\Debug\netcoreapp2.1\ClassLibrary.pdb
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.csprojAssemblyReference.cache
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.csproj.CoreCompileInputs.cache
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfoInputs.cache
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.AssemblyInfo.cs
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.csproj.CopyComplete
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.dll
+E:\Skola\Avancerad objektorienterad programmering och design\Inlämning\Inlämning\obj\Debug\netcoreapp2.1\Assignment.pdb
